@@ -6,9 +6,10 @@
   ## About Me ###
 - Passionate about programming
 - I am currently working on my portfolio and adding new projects to it
+- I love reading manga, watching anime and playing games (although I don't have much time for that )
 - Some music that I currently listen: <br>
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hxc1pizgzge90db4a8bu27lxn&unique={true|1|on|yes})
 
+ [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hxc1pizgzge90db4a8bu27lxn)](https://open.spotify.com/user/hxc1pizgzge90db4a8bu27lxn&count=10)
 
 <h2>Languages e Tools :computer:</h2>
 <div>
@@ -17,12 +18,11 @@
 
 <h2>Github Stats :zap:</h2>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Taih-Marques&hide=contribs,prs&show_icons=true&theme=synthwave" />
-</a> <a href="https://github.com/anuraghazra/convoychat">
-  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taih-Marques&layout=compact&langs_count=8&card_width=320&theme=dracula"" />
-</a>
-</div>
+<a href="https://github.com/Taih-Marques">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taih-Marques&layout=compact&langs_count=7&theme=synthwave"/>
+  
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Taih-Marques&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+</div> 
 
 <h3 align="left">Connect with me:</h3>
 <div>
