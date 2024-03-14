@@ -1,4 +1,4 @@
-<h2> :sparkles: Hi there, I'm Tainah Marques and my nickname is "Taih"!:sparkles:</h2>
+<h2> :sparkles: Hi there, I'm Tainah Marques but you can call me "Taih"!:sparkles:</h2>
 
 :pushpin: Computer Science Student at the State University of Santa Cruz - UESC </br>
 :dart: Currently undertaking courses in advanced programming languages to become a FULL Stack developer.
@@ -19,8 +19,7 @@
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Taih-Marques&hide=contribs,prs&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</a> <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taih-Marques&layout=compact&langs_count=8&card_width=320&theme=dracula"" />
 </a>
 </div>
