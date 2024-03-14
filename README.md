@@ -9,7 +9,7 @@
 - I love reading manga, watching anime and playing games (although I don't have much time for that )
 - Some music that I currently listen: <br>
 
- [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hxc1pizgzge90db4a8bu27lxn)](https://open.spotify.com/user/hxc1pizgzge90db4a8bu27lxn&count=10)
+ [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hxc1pizgzge90db4a8bu27lxn)](https://open.spotify.com/user/hxc1pizgzge90db4a8bu27lxn)
 
 <h2>Languages e Tools :computer:</h2>
 <div>
