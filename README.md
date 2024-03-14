@@ -1,16 +1,38 @@
-### Hi there 👋
+<h2> :sparkles: Hi there, I'm Tainah Marques and my nickname is "Taih"!:sparkles:</h2>
 
-<!--
-**Taih-Marques/Taih-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:pushpin: Computer Science Student at the State University of Santa Cruz - UESC </br>
+:dart: Currently undertaking courses in advanced programming languages to become a FULL Stack developer.
 
-Here are some ideas to get you started:
+  ## About Me ###
+- Passionate about programming
+- I am currently working on my portfolio and adding new projects to it
+- Some music that I currently listen: <br>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hxc1pizgzge90db4a8bu27lxn&unique={true|1|on|yes})
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Languages e Tools :computer:</h2>
+<div>
+    <img src="https://img.shields.io/badge/Java-%de3f2fff.svg??style=for-the-badge&logo=openjdk&logoColor=white" width=75px height=28px/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-6241dc?style=for-the-badge&logo=mysql&logoColor=white"/> 
+</div>    
+
+<h2>Github Stats :zap:</h2>
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Taih-Marques&hide=contribs,prs&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taih-Marques&layout=compact&langs_count=8&card_width=320&theme=dracula"" />
+</a>
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<div>
+<a href="https://www.linkedin.com/in/tainah-marques/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "tayhmarques.00@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/tayhmarques" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+![Snake animation](https://github.com/Taih-Marques/Taih-Marques/blob/output/github-contribution-grid-snake.svg)
+
+
+
