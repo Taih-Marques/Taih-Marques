@@ -19,10 +19,7 @@
 <h2>Github Stats :zap:</h2>
 <div>
 <a href="https://github.com/Taih-Marques">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taih-Marques&layout=compact&langs_count=7&theme=synthwave"/>
-  
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Taih-Marques&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-</div> 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taih-Marques&layout=compact&langs_count=7&theme=synthwave"/> 
 
 <h3 align="left">Connect with me:</h3>
 <div>
